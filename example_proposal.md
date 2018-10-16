@@ -1,4 +1,4 @@
-# Identification of variants in the evolution of novel aerobic citrate metabolism in Escheria coli
+# Identification of variants in the evolution of novel aerobic citrate metabolism in Escherichia coli
 
 Blount and colleagues (2012) propagated 12 populations of _Escherichia coli_ for 40,000 generations in glucose-limited minimal medium, supplemented with citrate, which wild-type E. coli (strain REL606) cannot metabolize under aerobic conditions. Samples of the populations were preserved at multiple time-points (every 500 generations) during their experiment, which were later strategically sequenced to reveal the mutational landscape preceding the evolution of the Cit+ trait. They found that the citrate-using mutants (described as Cit+ or Ara-3) appeared in a population of _E.coli_ at around 31,000 generations. Though Blount et al used a highly-specific tool, _breseq_, for their genomic comparisons and analyses (Deatherage & Barrick, 2014), we seek to analyze a subset of these samples (6 samples, see Table 1) with tools common to various types of experiments and compare our results to those published.
 
